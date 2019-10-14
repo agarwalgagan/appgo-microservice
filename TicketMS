@@ -1,1 +1,1 @@
-spring.datasource.url=jdbc:mysql://localhost:3306/appgo-ticket
+spring.datasource.url=jdbc:mysql://localhost/appgo-ticket
